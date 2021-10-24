@@ -1,2 +1,4 @@
 # COST-Avanced-school-on-the-physics-of-dark-matter
 The nature of Dark Matter phenomenon remains one of the biggest unsolved problem of contemporary fundamental physics. Since early astrophysical observations of gravitational effects of Dark Matter, many theoretical approaches that would elaborate on its possible origins, properties, cosmological evolution and astrophysical implications have been developed. Many experimental searches for particle physics candidates of Dark Matter in collider measurements and in astrophysics have been deployed greatly cratering into the parameter space of the most popular models. Several news ways of probing the yet hidden physics of Dark Sectors and Dark Matter are being established.
+
+Some of the figures and/or datasets exceed the github 100MB/file, you can send me an email to request them, if you will.
